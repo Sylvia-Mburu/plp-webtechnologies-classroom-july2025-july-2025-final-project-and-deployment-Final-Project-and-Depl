@@ -219,7 +219,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
 
           <div className="border-t border-amber-900/20 mt-12 pt-8 text-center">
             <p className="text-amber-100/60">
-              © 2024 Kenya Luxury Travel. All rights reserved. Crafted with passion for extraordinary journeys.
+              © 2025 Kenya Luxury Travel. All rights reserved. Crafted with passion for extraordinary journeys.
             </p>
           </div>
         </div>
